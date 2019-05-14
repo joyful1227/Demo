@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var myImageView: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
-        print ("love peter very much")
+        print ("love chiali very much")
         // Do any additional setup after loading the view.
         print("hello")
         //122
