@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         print("hello")
         //122
         //10:54 try
+        var i = 0
     }
 
 
